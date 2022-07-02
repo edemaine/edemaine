@@ -1,6 +1,6 @@
 ### Projects
 
-I lead (🌟) and/or contribute to (👯) the following open-source projects and documents:
+I lead (🌟) and/or contribute to (👯) the following open-source projects and documents, some of which are forks (🍴):
 
 * [Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching
   * 🌟[Comingle](https://github.com/edemaine/comingle) provides multiroom meetings with persistent apps/state within rooms
@@ -26,11 +26,11 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * Mathematics
   * [TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
 * Video games
-  * 👯[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
+  * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)
   * 👯[Bust-a-Move / Puzzle Bobble clone](https://github.com/edemaine/bustamove) with hardness gadgets
-  * 👯[8 puzzle](https://github.com/edemaine/8-puzzle) is a small fork of a 15-puzzle implementation
-  * 👯[2048 without merging](https://github.com/edemaine/2048) illustrates a 2048 variation studied in [a paper](https://erikdemaine.org/papers/2048_CCCG2020/)
+  * 🍴[8 puzzle](https://github.com/edemaine/8-puzzle) is a small fork of a 15-puzzle implementation
+  * 🍴[2048 without merging](https://github.com/edemaine/2048) illustrates a 2048 variation studied in [a paper](https://erikdemaine.org/papers/2048_CCCG2020/)
   * 🌟[recursed-xls2lua](https://github.com/edemaine/recursed-xls2lua) makes it easier to design custom [Recursed](https://store.steampowered.com/app/497780/Recursed/) levels
 * Figure drawing tools
   * 🌟[SVG Tiler](https://github.com/edemaine/svgtiler) combines SVG tiles according to ASCII art or a spreadsheet
@@ -48,7 +48,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
     * 🌟[solid-meteor-demo](https://github.com/edemaine/solid-meteor-demo) is a simple example illustrating the above
     * 🌟[meteor-solid-template-helper](https://github.com/edemaine/meteor-solid-template-helper) enables use of Solid components inside Meteor Blaze templates
 * [Meteor](https://www.meteor.com/)
-  * [edemaine:file-collection](https://github.com/edemaine/meteor-file-collection) stores uploaded files in MongoDB GridFS (used by Coauthor)
-  * [edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 4 and ShareJS (used by Coauthor)
-  * [edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content
-  * [@edemaine/meteor-tracker](https://github.com/edemaine/meteor-tracker) is an NPM version of `meteor/tracker` and `meteor/reactive-var` for testing simple Meteor code without Meteor (used by solid-meteor-data)
+  * 🍴[edemaine:file-collection](https://github.com/edemaine/meteor-file-collection) stores uploaded files in MongoDB GridFS (used by Coauthor)
+  * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 4 and ShareJS (used by Coauthor)
+  * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content
+  * 🍴[@edemaine/meteor-tracker](https://github.com/edemaine/meteor-tracker) is an NPM version of `meteor/tracker` and `meteor/reactive-var` for testing simple Meteor code without Meteor (used by solid-meteor-data)

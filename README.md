@@ -47,7 +47,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
     * 🌟[solid-meteor-data](https://github.com/edemaine/solid-meteor-data) provides primitives for combining Solid and Meteor reactivity
     * 🌟[solid-meteor-demo](https://github.com/edemaine/solid-meteor-demo) is a simple example illustrating the above
     * 🌟[meteor-solid-template-helper](https://github.com/edemaine/meteor-solid-template-helper) enables use of Solid components inside Meteor Blaze templates
-* [Meteor](https://www.meteor.com/)
+* [Meteor](https://www.meteor.com/) is a full-stack JavaScript framework
   * 🍴[edemaine:file-collection](https://github.com/edemaine/meteor-file-collection) stores uploaded files in MongoDB GridFS (used by Coauthor)
   * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 4 and ShareJS (used by Coauthor)
   * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content

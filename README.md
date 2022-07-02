@@ -5,7 +5,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * [Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching
   * 🌟[Comingle](https://github.com/edemaine/comingle) provides multiroom meetings with persistent apps/state within rooms
   * 🌟[Cocreate](https://github.com/edemaine/cocreate) provides collaborative whiteboards
-  * 🌟[Coauthor]((https://github.com/edemaine/cosuite)) provides collaborative note-taking / forum
+  * 🌟[Coauthor](https://github.com/edemaine/coauthor) provides collaborative note-taking / forum
 * Origami
   * 👯[FOLD](https://github.com/edemaine/fold) is a file format for origami designs/meshes, and JavaScript code to manipulate them
   * 👯[Origami Simulator](https://github.com/amandaghassaei/OrigamiSimulator) simulates paper folding

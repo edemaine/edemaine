@@ -2,7 +2,7 @@
 
 I lead (🌟) and/or contribute to (👯) the following open-source projects and documents, some of which are forks (🍴):
 
-* [Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching
+* 🌟[Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching
   * 🌟[Comingle](https://github.com/edemaine/comingle) provides multiroom meetings with persistent apps/state within rooms
   * 🌟[Cocreate](https://github.com/edemaine/cocreate) provides collaborative whiteboards
   * 🌟[Coauthor](https://github.com/edemaine/coauthor) provides collaborative note-taking / forum
@@ -24,7 +24,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[reveal-pug-talk](https://github.com/edemaine/reveal-pug-talk) is the template for this powerful combination of slide creation technology, and is [the basis for the above talks](https://github.com/edemaine/reveal-pug-talk/discussions/4)
   * 🌟[Timer](https://github.com/edemaine/timer) counts down remaining time for live presentations
 * Mathematics
-  * [TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
+  * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
 * Video games
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)

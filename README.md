@@ -41,6 +41,9 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * 👯[CoffeeScript](https://github.com/jashkenas/coffeescript)
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically
+  * 🌟[WIP branch with TypeScript support](https://github.com/edemaine/coffeescript/wiki/CoffeeScript-To-TypeScript-Features)
+* [Babel](https://babeljs.io/)
+  * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]
   * [Meteor](https://www.meteor.com/) integration
     * 🌟[meteor-solid](https://github.com/edemaine/meteor-solid) supports the SolidJS compiler in Meteor

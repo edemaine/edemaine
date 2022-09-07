@@ -55,3 +55,5 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 4 and ShareJS (used by Coauthor)
   * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content
   * 🍴[@edemaine/meteor-tracker](https://github.com/edemaine/meteor-tracker) is an NPM version of `meteor/tracker` and `meteor/reactive-var` for testing simple Meteor code without Meteor (used by solid-meteor-data)
+* Discord/Slack
+  * 🍴[slack-backup](https://github.com/edemaine/slack-backup) exports Slack data (including private channels) for Discord import

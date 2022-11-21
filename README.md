@@ -35,6 +35,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * Figure drawing tools
   * 🌟[SVG Tiler](https://github.com/edemaine/svgtiler) combines SVG tiles according to ASCII art or a spreadsheet
   * 🌟[svgink](https://github.com/edemaine/svgink) converts SVG to PDF/PNG via Inkscape
+  * 🌟[Computational Geometry Playground](https://github.com/edemaine/compgeom) lets you interactively write code that computes and renders geometric objects
 * LaTeX
   * 👯[KaTeX](https://github.com/KaTeX/KaTeX) renders LaTeX to HTML [maintainer]
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
@@ -42,6 +43,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically
   * 🌟[WIP branch with TypeScript support](https://github.com/edemaine/coffeescript/wiki/CoffeeScript-To-TypeScript-Features)
+  * 👯[Civet](https://github.com/DanielXMoore/Civet) is an alternative language which merges modern ECMAScript with CoffeeScript
 * [Babel](https://babeljs.io/)
   * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]
@@ -55,5 +57,6 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 4 and ShareJS (used by Coauthor)
   * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content
   * 🍴[@edemaine/meteor-tracker](https://github.com/edemaine/meteor-tracker) is an NPM version of `meteor/tracker` and `meteor/reactive-var` for testing simple Meteor code without Meteor (used by solid-meteor-data)
+* [preact-render-to-dom](https://github.com/edemaine/preact-render-to-dom) converts Preact VDOM to DOM or xmldom or jsdom *without reactivity*, faster than stringifying and parsing (used by SVG Tiler)
 * Discord/Slack
   * 🍴[slack-backup](https://github.com/edemaine/slack-backup) exports Slack data (including private channels) for Discord import

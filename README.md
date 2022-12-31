@@ -39,11 +39,11 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * LaTeX
   * 👯[KaTeX](https://github.com/KaTeX/KaTeX) renders LaTeX to HTML [maintainer]
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
+* 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional syntactic sugar, transpiling to ECMAScript or TypeScript
 * 👯[CoffeeScript](https://github.com/jashkenas/coffeescript)
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically
   * 🌟[WIP branch with TypeScript support](https://github.com/edemaine/coffeescript/wiki/CoffeeScript-To-TypeScript-Features)
-  * 👯[Civet](https://github.com/DanielXMoore/Civet) is an alternative language which merges modern ECMAScript with CoffeeScript
 * [Babel](https://babeljs.io/)
   * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]

@@ -25,6 +25,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[Timer](https://github.com/edemaine/timer) counts down remaining time for live presentations
 * Mathematics
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
+  * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
 * Video games
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)

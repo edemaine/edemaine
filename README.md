@@ -26,6 +26,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * Mathematics
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
   * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
+  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a paper about stacking names on top of each other
 * Video games
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)

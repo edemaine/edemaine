@@ -17,6 +17,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[font-webapp](https://github.com/edemaine/font-webapp) is a small frontend framework (built on furls) for building these apps
   * 🌟[furls](https://github.com/edemaine/furls) is a small frontend framework for synchronizing form state with the page URL
 * Talks/slides using a combination of [RevealJS](https://revealjs.com/), [Pug](https://pugjs.org/)/[Stylus](https://stylus-lang.com/), [SVG Tiler](https://github.com/edemaine/svgtiler), etc.
+  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-talk)
   * 🌟[Puzzle Fonts About Puzzles](https://github.com/edemaine/talk-puzzle-fonts-about-puzzles)
   * 🌟[Token Swapping and Robot Pivoting](https://github.com/edemaine/talk-token-swapping-robot-pivoting)
   * 👯[Yin-Yang Puzzles are NP-complete](https://github.com/edemaine/talk-yin-yang)
@@ -26,7 +27,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * Mathematics
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
   * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
-  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a paper about stacking names on top of each other
+  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
 * Video games
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)

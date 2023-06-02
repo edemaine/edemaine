@@ -61,6 +61,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content
   * 🍴[@edemaine/meteor-tracker](https://github.com/edemaine/meteor-tracker) is an NPM version of `meteor/tracker` and `meteor/reactive-var` for testing simple Meteor code without Meteor (used by solid-meteor-data)
 * [preact-render-to-dom](https://github.com/edemaine/preact-render-to-dom) converts Preact VDOM to DOM or xmldom or jsdom *without reactivity*, faster than stringifying and parsing (used by SVG Tiler)
+* [shtml2html](https://github.com/edemaine/shtml2html) statically renders Apache's server-parsed HTML
 * Discord/Slack
   * 🍴[slack-backup](https://github.com/edemaine/slack-backup) exports Slack data (including private channels) for Discord import
 * Web scripts

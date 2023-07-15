@@ -25,9 +25,10 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[reveal-pug-talk](https://github.com/edemaine/reveal-pug-talk) is the template for this powerful combination of slide creation technology, and is [the basis for the above talks](https://github.com/edemaine/reveal-pug-talk/discussions/4)
   * 🌟[Timer](https://github.com/edemaine/timer) counts down remaining time for live presentations
 * Mathematics
+  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
   * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
-  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
+  * 🌟[beancount](https://github.com/edemaine/beancount) counts how many DBLP papers each person has
 * Video games
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)

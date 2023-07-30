@@ -11,7 +11,9 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 👯[Origami Simulator](https://github.com/amandaghassaei/OrigamiSimulator) simulates paper folding
   * 🌟[Crease Pattern Editor](https://github.com/edemaine/cp-editor)
   <!--* [curved-crease-editor](https://github.com/edemaine/curved-crease-editor)-->
-* 👯[Virtual Glass](https://github.com/edemaine/virtualglass) simulates glass blowing, especially cane
+* Art
+  * 🌟[Algorithmic Character Layout](https://github.com/edemaine/character-layout) generates random perspective arrangements of images, as used by our [Hanging Out sculpture](https://erikdemaine.org/curved/HangingOut/)
+  * 👯[Virtual Glass](https://github.com/edemaine/virtualglass) simulates glass blowing, especially cane
 * 🌟[Mathematical and puzzle fonts](https://erikdemaine.org/fonts/)
   * 🌟[Coin Sliding](https://github.com/edemaine/coinsliding), [Cube Folding](https://github.com/edemaine/font-cubefolding), [Impossible Folding](https://github.com/edemaine/font-impossible), [Integer Sequence](https://github.com/edemaine/font-sequence), [Juggling](https://github.com/edemaine/font-juggling), [Orthogonal Fold &amp; Cut](https://github.com/edemaine/font-orthofoldcut), [Path Puzzles](https://github.com/edemaine/font-pathpuzzles), [Spiral Galaxies](https://github.com/edemaine/font-spiralgalaxies), [Sudoku](https://github.com/edemaine/font-sudoku), [Tatamibari](https://github.com/edemaine/font-tatamibari), [Tetris](https://github.com/edemaine/font-tetris), [Voronoi](https://github.com/edemaine/font-voronoi), [Yin Yang](https://github.com/edemaine/font-yinyang)
   * 🌟[font-webapp](https://github.com/edemaine/font-webapp) is a small frontend framework (built on furls) for building these apps

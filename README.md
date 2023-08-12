@@ -49,7 +49,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * 👯[CoffeeScript](https://github.com/jashkenas/coffeescript)
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically
-  * 🌟[WIP branch with TypeScript support](https://github.com/edemaine/coffeescript/wiki/CoffeeScript-To-TypeScript-Features)
+  * 🌟[WIP branch with TypeScript support](https://github.com/edemaine/coffeescript/wiki/CoffeeScript-To-TypeScript-Features) (effort moved to Civet)
 * [Babel](https://babeljs.io/)
   * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]
@@ -58,6 +58,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
     * 🌟[solid-meteor-data](https://github.com/edemaine/solid-meteor-data) provides primitives for combining Solid and Meteor reactivity
     * 🌟[solid-meteor-demo](https://github.com/edemaine/solid-meteor-demo) is a simple example illustrating the above
     * 🌟[meteor-solid-template-helper](https://github.com/edemaine/meteor-solid-template-helper) enables use of Solid components inside Meteor Blaze templates
+  * 👯[solid-bootstrap](https://github.com/solid-libs/solid-bootstrap): Bootstrap 5 components
 * [Meteor](https://www.meteor.com/) is a full-stack JavaScript framework
   * 🍴[edemaine:file-collection](https://github.com/edemaine/meteor-file-collection) stores uploaded files in MongoDB GridFS (used by Coauthor)
   * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 4 and ShareJS (used by Coauthor)

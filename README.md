@@ -35,7 +35,8 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)
   * 👯[Bust-a-Move / Puzzle Bobble clone](https://github.com/edemaine/bustamove) with hardness gadgets
-  * 🍴[8 puzzle](https://github.com/edemaine/8-puzzle) is a small fork of a 15-puzzle implementation
+  * 🌟[Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle) implements the classic <i>n</i><sup>2</sup>&nbsp;&minus;&nbsp;1 puzzle in Solid and Civet, with sliding animations
+    * ...replacing 🍴[8 puzzle](https://github.com/edemaine/8-puzzle) which is a small fork of a 15-puzzle implementation
   * 🍴[2048 without merging](https://github.com/edemaine/2048) illustrates a 2048 variation studied in [a paper](https://erikdemaine.org/papers/2048_CCCG2020/)
   * 🌟[recursed-xls2lua](https://github.com/edemaine/recursed-xls2lua) makes it easier to design custom [Recursed](https://store.steampowered.com/app/497780/Recursed/) levels
 * Figure drawing tools

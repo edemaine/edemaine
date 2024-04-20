@@ -47,7 +47,8 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * LaTeX
   * 👯[KaTeX](https://github.com/KaTeX/KaTeX) renders LaTeX to HTML [maintainer]
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
-* 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional syntactic sugar, transpiling to ECMAScript or TypeScript
+* 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional language features and syntactic sugar, transpiling to ECMAScript or TypeScript
+  * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
 * 👯[CoffeeScript](https://github.com/jashkenas/coffeescript)
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically

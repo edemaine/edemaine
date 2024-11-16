@@ -28,6 +28,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[reveal-pug-talk](https://github.com/edemaine/reveal-pug-talk) is the template for this powerful combination of slide creation technology, and is [the basis for the above talks](https://github.com/edemaine/reveal-pug-talk/discussions/4)
   * 🌟[Timer](https://github.com/edemaine/timer) counts down remaining time for live presentations
 * Mathematics
+  * 👯[Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles): Implementation of [a paper](https://arxiv.org/abs/2409.11582) converting Wang tiles into three polygons with equivalent tilings
   * 👯[PokeTree](https://github.com/edemaine/poketree): Animated demos of Binary Search Trees (BSTs) and AVL trees with Pokémon
   * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
@@ -51,7 +52,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
 * 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional language features and syntactic sugar, transpiling to ECMAScript or TypeScript
   * 👯[Hera](https://github.com/DanielXMoore/Civet) is the parser generator that Civet is based on
-  * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [mathcestor](https://github.com/edemaine/mathcestor), [PokeTree](https://github.com/edemaine/poketree), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
+  * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [mathcestor](https://github.com/edemaine/mathcestor), [PokeTree](https://github.com/edemaine/poketree), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
 * 👯[CoffeeScript](https://github.com/jashkenas/coffeescript)
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically

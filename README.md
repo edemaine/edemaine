@@ -80,3 +80,4 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[dark-monkey](https://github.com/edemaine/dark-monkey) adds dark(er) modes to some websites
   * 🌟[github-issue.js](https://gist.github.com/edemaine/4507dc6a286a9428b86ae14a62a1f7ee) minimalizes a GitHub issue for printing as a referee response
   * 🌟[when2meet-subset.js](https://gist.github.com/edemaine/3b32be8a20ceafd931c2f2a6815d3ae4) enables toggling subset of users in when2meet results view
+* 🌟[pptxgrep](https://github.com/edemaine/pptxgrep) searches for text on slides in PowerPoint files

@@ -48,6 +48,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[Computational Geometry Playground](https://github.com/edemaine/compgeom) lets you interactively write code that computes and renders geometric objects
 * LaTeX
   * 👯[Texlish](https://github.com/edemaine/texlish): Better LaTeX that compiles to LaTeX
+  * 🌟Templates: [My usual starting point](https://github.com/edemaine/latex-paper-template) and [with GitHub Action to build to PDF](https://github.com/edemaine/latex-paper-auto-build)
   * 👯[KaTeX](https://github.com/KaTeX/KaTeX) renders LaTeX to HTML [maintainer]
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
 * 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional language features and syntactic sugar, transpiling to ECMAScript or TypeScript

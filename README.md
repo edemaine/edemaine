@@ -69,6 +69,8 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
     * 🌟[meteor-solid-template-helper](https://github.com/edemaine/meteor-solid-template-helper) enables use of Solid components inside Meteor Blaze templates
   * 👯[solid-bootstrap](https://github.com/solid-libs/solid-bootstrap): Bootstrap 5 components
 * [Meteor](https://www.meteor.com/) is a full-stack JavaScript framework
+  * 🌟[edemaine:civet](https://github.com/edemaine/meteor-civet) adds [Civet](https://civet.dev) language support
+    * 🌟[meteor-civet-test-react](https://github.com/edemaine/meteor-civet-test-react) is a minimal example app
   * 🍴[edemaine:file-collection](https://github.com/edemaine/meteor-file-collection) stores uploaded files in MongoDB GridFS (used by Coauthor)
   * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 5 and ShareJS (used by Coauthor)
   * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content

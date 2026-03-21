@@ -54,7 +54,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
 * 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional language features and syntactic sugar, transpiling to ECMAScript or TypeScript
   * 👯[Hera](https://github.com/DanielXMoore/Civet) is the parser generator that Civet is based on
-  * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [mathcestor](https://github.com/edemaine/mathcestor), [PokeTree](https://github.com/edemaine/poketree), [QR Designer](https://github.com/edemaine/qr-layers), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
+  * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [civet-solid-vite-template](https://github.com/edemaine/civet-solid-vite-template), [mathcestor](https://github.com/edemaine/mathcestor), [PokeTree](https://github.com/edemaine/poketree), [QR Designer](https://github.com/edemaine/qr-layers), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
 * 👯[CoffeeScript](https://github.com/jashkenas/coffeescript)
   * 🌟[CoffeeScript for Python programmers](https://edemaine.github.io/coffeescript-for-python/): a guide
   * 🌟[python2coffee](https://github.com/edemaine/python2coffee) attempts to convert Python → CoffeeScript automatically
@@ -62,6 +62,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * [Babel](https://babeljs.io/)
   * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]
+  * 🌟[civet-solid-vite-template](https://github.com/edemaine/civet-solid-vite-template) is a template for SolidJS apps using Civet and Vite
   * [Meteor](https://www.meteor.com/) integration
     * 🌟[meteor-solid](https://github.com/edemaine/meteor-solid) supports the SolidJS compiler in Meteor
     * 🌟[solid-meteor-data](https://github.com/edemaine/solid-meteor-data) provides primitives for combining Solid and Meteor reactivity

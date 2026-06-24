@@ -33,7 +33,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
   * 🌟[beancount](https://github.com/edemaine/beancount) counts how many papers and coauthors each author has according to DBLP
 
-## Art
+## Art and Design
 
 * Art
   * 🌟[Algorithmic Character Layout](https://github.com/edemaine/character-layout) generates random perspective arrangements of images, as used by our [Hanging Out sculpture](https://erikdemaine.org/curved/HangingOut/)

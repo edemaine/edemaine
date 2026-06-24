@@ -4,6 +4,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 
 * 🌟[Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching
   * 🌟[Comingle](https://github.com/edemaine/comingle) provides multiroom meetings with persistent apps/state within rooms
+    * 🌟[Comingle Attendance](https://github.com/edemaine/comingle-attendance) measures attendance in Comingle meetings
   * 🌟[Cocreate](https://github.com/edemaine/cocreate) provides collaborative whiteboards
   * 🌟[Coauthor](https://github.com/edemaine/coauthor) provides collaborative note-taking / forum
 * Origami
@@ -17,7 +18,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 👯[Virtual Glass](https://github.com/edemaine/virtualglass) simulates glass blowing, especially cane
   * 🌟[Word Ladder Designer](https://github.com/edemaine/word-ladder/) lets you explore sequences like CAT → COT → DOT → DOG
 * 🌟[Mathematical and puzzle fonts](https://erikdemaine.org/fonts/)
-  * 🌟[Ada](https://github.com/edemaine/ada), [Coin Sliding](https://github.com/edemaine/coinsliding), [Cube Folding](https://github.com/edemaine/font-cubefolding), [Impossible Folding](https://github.com/edemaine/font-impossible), [Integer Sequence](https://github.com/edemaine/font-sequence), [Juggling](https://github.com/edemaine/font-juggling), [Orthogonal Fold &amp; Cut](https://github.com/edemaine/font-orthofoldcut), [Path Puzzles](https://github.com/edemaine/font-pathpuzzles), [Spiral Galaxies](https://github.com/edemaine/font-spiralgalaxies), [Strip Folding](https://github.com/edemaine/font-strip), [Sudoku](https://github.com/edemaine/font-sudoku), [Tatamibari](https://github.com/edemaine/font-tatamibari), [Tetris](https://github.com/edemaine/font-tetris), [Voronoi](https://github.com/edemaine/font-voronoi), [Yin-Yang](https://github.com/edemaine/font-yinyang)
+  * 🌟[Ada](https://github.com/edemaine/font-ada), [Coin Sliding](https://github.com/edemaine/coinsliding), [Cube Folding](https://github.com/edemaine/font-cubefolding), [Impossible Folding](https://github.com/edemaine/font-impossible), [Integer Sequence](https://github.com/edemaine/font-sequence), [Juggling](https://github.com/edemaine/font-juggling), [Orthogonal Fold &amp; Cut](https://github.com/edemaine/font-orthofoldcut), [Path Puzzles](https://github.com/edemaine/font-pathpuzzles), [Spiral Galaxies](https://github.com/edemaine/font-spiralgalaxies), [Strip Folding](https://github.com/edemaine/font-strip), [Sudoku](https://github.com/edemaine/font-sudoku), [Tatamibari](https://github.com/edemaine/font-tatamibari), [Tetris](https://github.com/edemaine/font-tetris), [Voronoi](https://github.com/edemaine/font-voronoi), [Yin-Yang](https://github.com/edemaine/font-yinyang)
   * 🌟[font-webapp](https://github.com/edemaine/font-webapp) is a small frontend framework (built on furls) for building these apps
   * 🌟[furls](https://github.com/edemaine/furls) is a small frontend framework for synchronizing form state with the page URL
 * Talks/slides using a combination of [RevealJS](https://revealjs.com/), [Pug](https://pugjs.org/)/[Stylus](https://stylus-lang.com/), [SVG Tiler](https://github.com/edemaine/svgtiler), etc.
@@ -31,10 +32,12 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * Mathematics
   * 👯[Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles): Implementation of [a paper](https://arxiv.org/abs/2409.11582) converting Wang tiles into three polygons with equivalent tilings
   * 👯[PokeTree](https://github.com/edemaine/poketree): Animated demos of Binary Search Trees (BSTs) and AVL trees with Pokémon
+  * 🌟[Modular Demos](https://github.com/edemaine/modular-demos) illustrate modular arithmetic
   * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
   * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
   * 🌟[beancount](https://github.com/edemaine/beancount) counts how many papers and coauthors each author has according to DBLP
+  * 🌟[Short Chess](https://github.com/edemaine/short-chess) searches for mates on short chess boards
 * Video games
   * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
   * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)
@@ -52,6 +55,8 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟Templates: [My usual starting point](https://github.com/edemaine/latex-paper-template) and [with GitHub Action to build to PDF](https://github.com/edemaine/latex-paper-auto-build)
   * 👯[KaTeX](https://github.com/KaTeX/KaTeX) renders LaTeX to HTML [maintainer]
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
+  * 🌟[tex2text](https://github.com/edemaine/tex2text) converts simple LaTeX to ASCII or Markdown
+  * 🌟[alpha-key](https://github.com/edemaine/alpha-key) is a BibTeX style for overriding alphabetic labels
 * 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional language features and syntactic sugar, transpiling to ECMAScript or TypeScript
   * 👯[Hera](https://github.com/DanielXMoore/Civet) is the parser generator that Civet is based on
   * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [civet-solid-vite-template](https://github.com/edemaine/civet-solid-vite-template), [mathcestor](https://github.com/edemaine/mathcestor), [PokeTree](https://github.com/edemaine/poketree), [QR Designer](https://github.com/edemaine/qr-layers), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
@@ -76,9 +81,15 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🍴[edemaine:sharejs](https://github.com/edemaine/meteor-sharejs) is an aging integration with CodeMirror 5 and ShareJS (used by Coauthor)
   * 🌟[edemaine:static-pug](https://github.com/edemaine/static-pug) renders static [Pug](https://pugjs.org/) content
   * 🍴[@edemaine/meteor-tracker](https://github.com/edemaine/meteor-tracker) is an NPM version of `meteor/tracker` and `meteor/reactive-var` for testing simple Meteor code without Meteor (used by solid-meteor-data)
+  * 🌟[kadira-compose](https://github.com/edemaine/kadira-compose) runs open-source Kadira via Docker Compose
 * 🌟[preact-render-to-dom](https://github.com/edemaine/preact-render-to-dom) converts Preact VDOM to DOM or xmldom or jsdom *without reactivity*, faster than stringifying and parsing (used by SVG Tiler)
 * 🍴[codemirror-spell-checker](https://github.com/edemaine/codemirror-spell-checker) adds basic English spell checking to CodeMirror 4
+* Markdown
+  * 🌟[markdown-it-replacements](https://github.com/edemaine/markdown-it-replacements) customizes replacements in markdown-it typographer
+  * 🌟[markdownlint-rule-github-internal-links](https://github.com/edemaine/markdownlint-rule-github-internal-links) checks GitHub-style internal links in Markdown
 * 🌟[shtml2html](https://github.com/edemaine/shtml2html) statically renders Apache's server-parsed HTML
+* AI
+  * 🌟[client-side-tanstack-ai-demo](https://github.com/edemaine/client-side-tanstack-ai-demo) demonstrates text and image generation via TanStack AI with bring-your-own-key OpenRouter, fully client-side
 * Discord/Slack
   * 🍴[slack-backup](https://github.com/edemaine/slack-backup) exports Slack data (including private channels) for Discord import
 * Web scripts

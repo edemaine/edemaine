@@ -97,7 +97,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
 * [Babel](https://babeljs.io/)
   * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
 
-## Web Frameworks and App Platforms
+## Web Frameworks
 
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]
   * 🌟[civet-solid-vite-template](https://github.com/edemaine/civet-solid-vite-template) is a template for SolidJS apps using Civet and Vite
@@ -117,11 +117,10 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[kadira-compose](https://github.com/edemaine/kadira-compose) runs open-source Kadira via Docker Compose
 * 🌟[preact-render-to-dom](https://github.com/edemaine/preact-render-to-dom) converts Preact VDOM to DOM or xmldom or jsdom *without reactivity*, faster than stringifying and parsing (used by SVG Tiler)
 * 🍴[codemirror-spell-checker](https://github.com/edemaine/codemirror-spell-checker) adds basic English spell checking to CodeMirror 4
+* 🌟[client-side-tanstack-ai-demo](https://github.com/edemaine/client-side-tanstack-ai-demo) demonstrates text and image generation via TanStack AI with bring-your-own-key OpenRouter, fully client-side
 
 ## Utilities and Scripts
 
-* AI
-  * 🌟[client-side-tanstack-ai-demo](https://github.com/edemaine/client-side-tanstack-ai-demo) demonstrates text and image generation via TanStack AI with bring-your-own-key OpenRouter, fully client-side
 * Discord/Slack
   * 🍴[slack-backup](https://github.com/edemaine/slack-backup) exports Slack data (including private channels) for Discord import
 * Web scripts

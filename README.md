@@ -86,5 +86,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[github-issue.js](https://gist.github.com/edemaine/4507dc6a286a9428b86ae14a62a1f7ee) minimalizes a GitHub issue for printing as a referee response
   * 🌟[when2meet-subset.js](https://gist.github.com/edemaine/3b32be8a20ceafd931c2f2a6815d3ae4) enables toggling subset of users in when2meet results view
 * 🌟[pptxgrep](https://github.com/edemaine/pptxgrep) searches for text on slides in PowerPoint files
+* Hardware
+  * 🌟[USB-UIRT CLI](https://github.com/edemaine/usb-uirt-cli) lets you send and learn IR codes with USB-UIRT hardware
 * Babies
   * [Nara Gaiden](https://github.com/edemaine/NaraGaiden) summarizes your multiple babies tracked by the Nara Baby app

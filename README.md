@@ -1,17 +1,40 @@
-### Projects
+# Projects
 
 I lead (🌟) and/or contribute to (👯) the following open-source projects and documents, some of which are forks (🍴):
 
-* 🌟[Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching
+## Collaboration and Teaching
+
+* 🌟[Cosuite](https://github.com/edemaine/cosuite) for better meetings and teaching:
   * 🌟[Comingle](https://github.com/edemaine/comingle) provides multiroom meetings with persistent apps/state within rooms
     * 🌟[Comingle Attendance](https://github.com/edemaine/comingle-attendance) measures attendance in Comingle meetings
   * 🌟[Cocreate](https://github.com/edemaine/cocreate) provides collaborative whiteboards
   * 🌟[Coauthor](https://github.com/edemaine/coauthor) provides collaborative note-taking / forum
+* Demos I use for teaching discrete mathematics and algorithms:
+  * 👯[PokeTree](https://github.com/edemaine/poketree): Animated demos of Binary Search Trees (BSTs) and AVL trees with Pokémon
+  * 🌟[Modular Demos](https://github.com/edemaine/modular-demos) illustrate modular arithmetic
+  * 🌟[Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle) implements the classic <i>n</i><sup>2</sup>&nbsp;&minus;&nbsp;1 puzzle in Solid and Civet, with sliding animations
+
+## Mathematics and Origami
+
 * Origami
   * 👯[FOLD](https://github.com/edemaine/fold) is a file format for origami designs/meshes, and JavaScript code to manipulate them
   * 👯[Origami Simulator](https://github.com/amandaghassaei/OrigamiSimulator) simulates paper folding
   * 🌟[Crease Pattern Editor](https://github.com/edemaine/cp-editor)
   <!--* [curved-crease-editor](https://github.com/edemaine/curved-crease-editor)-->
+* Mathematical demos
+  * 👯[Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles): Implementation of [a paper](https://arxiv.org/abs/2409.11582) converting Wang tiles into three polygons with equivalent tilings
+  * 👯[PokeTree](https://github.com/edemaine/poketree): Animated demos of Binary Search Trees (BSTs) and AVL trees with Pokémon
+  * 🌟[Modular Demos](https://github.com/edemaine/modular-demos) illustrate modular arithmetic
+* Mathematics
+  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
+  * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
+  * 🌟[Short Chess](https://github.com/edemaine/short-chess) searches for mates on short chess boards
+* Utilities
+  * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
+  * 🌟[beancount](https://github.com/edemaine/beancount) counts how many papers and coauthors each author has according to DBLP
+
+## Art
+
 * Art
   * 🌟[Algorithmic Character Layout](https://github.com/edemaine/character-layout) generates random perspective arrangements of images, as used by our [Hanging Out sculpture](https://erikdemaine.org/curved/HangingOut/)
   * 🌟[QR Designer](https://github.com/edemaine/qr-layers) generates perfect QR codes with detailed background images, and shows how to build them from stacked laser-cut sheets of material, as used by our [3D QR prints](https://erikdemaine.org/prints/QR/)
@@ -21,6 +44,19 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[Ada](https://github.com/edemaine/font-ada), [Coin Sliding](https://github.com/edemaine/coinsliding), [Cube Folding](https://github.com/edemaine/font-cubefolding), [Impossible Folding](https://github.com/edemaine/font-impossible), [Integer Sequence](https://github.com/edemaine/font-sequence), [Juggling](https://github.com/edemaine/font-juggling), [Orthogonal Fold &amp; Cut](https://github.com/edemaine/font-orthofoldcut), [Path Puzzles](https://github.com/edemaine/font-pathpuzzles), [Spiral Galaxies](https://github.com/edemaine/font-spiralgalaxies), [Strip Folding](https://github.com/edemaine/font-strip), [Sudoku](https://github.com/edemaine/font-sudoku), [Tatamibari](https://github.com/edemaine/font-tatamibari), [Tetris](https://github.com/edemaine/font-tetris), [Voronoi](https://github.com/edemaine/font-voronoi), [Yin-Yang](https://github.com/edemaine/font-yinyang)
   * 🌟[font-webapp](https://github.com/edemaine/font-webapp) is a small frontend framework (built on furls) for building these apps
   * 🌟[furls](https://github.com/edemaine/furls) is a small frontend framework for synchronizing form state with the page URL
+
+## Video Games
+
+* 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
+* 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)
+* 👯[Bust-a-Move / Puzzle Bobble clone](https://github.com/edemaine/bustamove) with hardness gadgets
+* 🌟[Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle) implements the classic <i>n</i><sup>2</sup>&nbsp;&minus;&nbsp;1 puzzle in Solid and Civet, with sliding animations
+  * ...replacing 🍴[8 puzzle](https://github.com/edemaine/8-puzzle) which is a small fork of a 15-puzzle implementation
+* 🍴[2048 without merging](https://github.com/edemaine/2048) illustrates a 2048 variation studied in [a paper](https://erikdemaine.org/papers/2048_CCCG2020/)
+* 🌟[recursed-xls2lua](https://github.com/edemaine/recursed-xls2lua) makes it easier to design custom [Recursed](https://store.steampowered.com/app/497780/Recursed/) levels
+
+## Presentations and Tools
+
 * Talks/slides using a combination of [RevealJS](https://revealjs.com/), [Pug](https://pugjs.org/)/[Stylus](https://stylus-lang.com/), [SVG Tiler](https://github.com/edemaine/svgtiler), etc.
   * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-talk)
   * 🌟[Puzzle Fonts About Puzzles](https://github.com/edemaine/talk-puzzle-fonts-about-puzzles)
@@ -28,28 +64,11 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 👯[Yin-Yang Puzzles are NP-complete](https://github.com/edemaine/talk-yin-yang)
   * 🌟[Token Swapping on Trees](https://github.com/edemaine/talk-token-swapping-in-trees)
   * 🌟[reveal-pug-talk](https://github.com/edemaine/reveal-pug-talk) is the template for this powerful combination of slide creation technology, and is [the basis for the above talks](https://github.com/edemaine/reveal-pug-talk/discussions/4)
-  * 🌟[Timer](https://github.com/edemaine/timer) counts down remaining time for live presentations
-* Mathematics
-  * 👯[Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles): Implementation of [a paper](https://arxiv.org/abs/2409.11582) converting Wang tiles into three polygons with equivalent tilings
-  * 👯[PokeTree](https://github.com/edemaine/poketree): Animated demos of Binary Search Trees (BSTs) and AVL trees with Pokémon
-  * 🌟[Modular Demos](https://github.com/edemaine/modular-demos) illustrate modular arithmetic
-  * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
-  * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
-  * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
-  * 🌟[beancount](https://github.com/edemaine/beancount) counts how many papers and coauthors each author has according to DBLP
-  * 🌟[Short Chess](https://github.com/edemaine/short-chess) searches for mates on short chess boards
-* Video games
-  * 🍴[As-Toroids](https://github.com/edemaine/as-toroids) is higher-genus Asteroids
-  * 🌟[Attractor](https://github.com/edemaine/attractor) implements magnetic puzzles/counterexamples from [a paper](https://arxiv.org/abs/2006.01202)
-  * 👯[Bust-a-Move / Puzzle Bobble clone](https://github.com/edemaine/bustamove) with hardness gadgets
-  * 🌟[Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle) implements the classic <i>n</i><sup>2</sup>&nbsp;&minus;&nbsp;1 puzzle in Solid and Civet, with sliding animations
-    * ...replacing 🍴[8 puzzle](https://github.com/edemaine/8-puzzle) which is a small fork of a 15-puzzle implementation
-  * 🍴[2048 without merging](https://github.com/edemaine/2048) illustrates a 2048 variation studied in [a paper](https://erikdemaine.org/papers/2048_CCCG2020/)
-  * 🌟[recursed-xls2lua](https://github.com/edemaine/recursed-xls2lua) makes it easier to design custom [Recursed](https://store.steampowered.com/app/497780/Recursed/) levels
-* Figure drawing tools
-  * 🌟[SVG Tiler](https://github.com/edemaine/svgtiler) combines SVG tiles according to ASCII art or a spreadsheet
-  * 🌟[svgink](https://github.com/edemaine/svgink) converts SVG to PDF/PNG via Inkscape
-  * 🌟[Computational Geometry Playground](https://github.com/edemaine/compgeom) lets you interactively write code that computes and renders geometric objects
+* 🌟[Timer](https://github.com/edemaine/timer) counts down remaining time for live presentations
+* 🌟[pptxgrep](https://github.com/edemaine/pptxgrep) searches for text on slides in PowerPoint files
+
+## Authoring Tools: LaTeX, Markdown, Figures
+
 * LaTeX
   * 👯[Texlish](https://github.com/edemaine/texlish): Better LaTeX that compiles to LaTeX
   * 🌟Templates: [My usual starting point](https://github.com/edemaine/latex-paper-template) and [with GitHub Action to build to PDF](https://github.com/edemaine/latex-paper-auto-build)
@@ -57,6 +76,17 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[tex2svg-webworker](https://github.com/edemaine/tex2svg-webworker) renders LaTeX to SVG in a Web Worker (used by Cocreate)
   * 🌟[tex2text](https://github.com/edemaine/tex2text) converts simple LaTeX to ASCII or Markdown
   * 🌟[alpha-key](https://github.com/edemaine/alpha-key) is a BibTeX style for overriding alphabetic labels
+* Markdown
+  * 🌟[markdown-it-replacements](https://github.com/edemaine/markdown-it-replacements) customizes replacements in markdown-it typographer
+  * 🌟[markdownlint-rule-github-internal-links](https://github.com/edemaine/markdownlint-rule-github-internal-links) checks GitHub-style internal links in Markdown
+* Figure drawing tools
+  * 🌟[SVG Tiler](https://github.com/edemaine/svgtiler) combines SVG tiles according to ASCII art or a spreadsheet
+  * 🌟[svgink](https://github.com/edemaine/svgink) converts SVG to PDF/PNG via Inkscape
+  * 🌟[Computational Geometry Playground](https://github.com/edemaine/compgeom) lets you interactively write code that computes and renders geometric objects
+* 🌟[shtml2html](https://github.com/edemaine/shtml2html) statically renders Apache's server-parsed HTML
+
+## Programming Languages
+
 * 👯[Civet](https://github.com/DanielXMoore/Civet) is a new programming language that merges modern ECMAScript/TypeScript with CoffeeScript and lots of additional language features and syntactic sugar, transpiling to ECMAScript or TypeScript
   * 👯[Hera](https://github.com/DanielXMoore/Civet) is the parser generator that Civet is based on
   * Projects here written in Civet: [Algorithmic Character Layout](https://github.com/edemaine/character-layout), [beancount](https://github.com/edemaine/beancount), [civet-solid-vite-template](https://github.com/edemaine/civet-solid-vite-template), [mathcestor](https://github.com/edemaine/mathcestor), [PokeTree](https://github.com/edemaine/poketree), [QR Designer](https://github.com/edemaine/qr-layers), [shtml2html](https://github.com/edemaine/shtml2html), [Sliding Squares Puzzle](https://github.com/edemaine/sliding-squares-puzzle), [Tiling with Three Polygons is Undecidable](https://github.com/edemaine/three-tiles), [Word Ladder Designer](https://github.com/edemaine/word-ladder)
@@ -66,6 +96,9 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[WIP branch with TypeScript support](https://github.com/edemaine/coffeescript/wiki/CoffeeScript-To-TypeScript-Features) (effort moved to Civet)
 * [Babel](https://babeljs.io/)
   * 🌟[babel-plugin-module-deps](https://github.com/edemaine/babel-plugin-module-deps) tracks which CJS modules `require`/`import` which others for dependency tracking (used by SVG Tiler)
+
+## Web Frameworks and App Platforms
+
 * 👯[SolidJS](https://github.com/solidjs/solid) is a front-end JavaScript framework [docs and ecosystem teams]
   * 🌟[civet-solid-vite-template](https://github.com/edemaine/civet-solid-vite-template) is a template for SolidJS apps using Civet and Vite
   * [Meteor](https://www.meteor.com/) integration
@@ -84,10 +117,9 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[kadira-compose](https://github.com/edemaine/kadira-compose) runs open-source Kadira via Docker Compose
 * 🌟[preact-render-to-dom](https://github.com/edemaine/preact-render-to-dom) converts Preact VDOM to DOM or xmldom or jsdom *without reactivity*, faster than stringifying and parsing (used by SVG Tiler)
 * 🍴[codemirror-spell-checker](https://github.com/edemaine/codemirror-spell-checker) adds basic English spell checking to CodeMirror 4
-* Markdown
-  * 🌟[markdown-it-replacements](https://github.com/edemaine/markdown-it-replacements) customizes replacements in markdown-it typographer
-  * 🌟[markdownlint-rule-github-internal-links](https://github.com/edemaine/markdownlint-rule-github-internal-links) checks GitHub-style internal links in Markdown
-* 🌟[shtml2html](https://github.com/edemaine/shtml2html) statically renders Apache's server-parsed HTML
+
+## Utilities and Scripts
+
 * AI
   * 🌟[client-side-tanstack-ai-demo](https://github.com/edemaine/client-side-tanstack-ai-demo) demonstrates text and image generation via TanStack AI with bring-your-own-key OpenRouter, fully client-side
 * Discord/Slack
@@ -96,7 +128,6 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[dark-monkey](https://github.com/edemaine/dark-monkey) adds dark(er) modes to some websites
   * 🌟[github-issue.js](https://gist.github.com/edemaine/4507dc6a286a9428b86ae14a62a1f7ee) minimalizes a GitHub issue for printing as a referee response
   * 🌟[when2meet-subset.js](https://gist.github.com/edemaine/3b32be8a20ceafd931c2f2a6815d3ae4) enables toggling subset of users in when2meet results view
-* 🌟[pptxgrep](https://github.com/edemaine/pptxgrep) searches for text on slides in PowerPoint files
 * Hardware
   * 🌟[USB-UIRT CLI](https://github.com/edemaine/usb-uirt-cli) lets you send and learn IR codes with USB-UIRT hardware
 * Babies

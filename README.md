@@ -29,6 +29,9 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 👯[Every Author as First Author](https://github.com/edemaine/author-stack-paper): source code for a humorous paper about stacking names on top of each other
   * 👯[TOPP: The Open Problems Project](https://github.com/edemaine/topp) lists open problems in computational geometry
   * 🌟[Short Chess](https://github.com/edemaine/short-chess) searches for mates on short chess boards
+* [Lean](https://lean-lang.org/) formalizations
+  * 👯[Wang Tiling](https://github.com/edemaine/lean-wang) formalizes two proofs of the undecidability/coRE-completeness of tiling the plane with Wang tiles
+  * 👯[Tromino Tiling](https://github.com/edemaine/lean-trominoes) formalizes [our paper](https://arxiv.org/abs/2509.07906) on (un)decidability/coRE-completeness of tiling with trominoes
 * Utilities
   * 🌟[mathcestor](https://github.com/edemaine/mathcestor) renders academic ancestor trees from [Mathematics Genealogy Project](https://www.mathgenealogy.org/), such as [mine](https://erikdemaine.org/family/#ancestors)
   * 🌟[beancount](https://github.com/edemaine/beancount) counts how many papers and coauthors each author has according to DBLP

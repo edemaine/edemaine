@@ -86,6 +86,7 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[SVG Tiler](https://github.com/edemaine/svgtiler) combines SVG tiles according to ASCII art or a spreadsheet
   * 🌟[svgink](https://github.com/edemaine/svgink) converts SVG to PDF/PNG via Inkscape
   * 🌟[Computational Geometry Playground](https://github.com/edemaine/compgeom) lets you interactively write code that computes and renders geometric objects
+* 🌟[Cygshim](https://github.com/edemaine/cygshim) lets native Windows applications such as VS Code use Cygwin Git and TeX tools
 * 🌟[shtml2html](https://github.com/edemaine/shtml2html) statically renders Apache's server-parsed HTML
 
 ## Programming Languages

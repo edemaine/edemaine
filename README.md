@@ -121,7 +121,12 @@ I lead (🌟) and/or contribute to (👯) the following open-source projects and
   * 🌟[kadira-compose](https://github.com/edemaine/kadira-compose) runs open-source Kadira via Docker Compose
 * 🌟[preact-render-to-dom](https://github.com/edemaine/preact-render-to-dom) converts Preact VDOM to DOM or xmldom or jsdom *without reactivity*, faster than stringifying and parsing (used by SVG Tiler)
 * 🍴[codemirror-spell-checker](https://github.com/edemaine/codemirror-spell-checker) adds basic English spell checking to CodeMirror 4
+
+## AI
+
+* 🌟[Loose Ends](https://github.com/edemaine/loose-ends) uses LLM agents to find and attempt open problems from research papers
 * 🌟[client-side-tanstack-ai-demo](https://github.com/edemaine/client-side-tanstack-ai-demo) demonstrates text and image generation via TanStack AI with bring-your-own-key OpenRouter, fully client-side
+* 🌟[Agents/Codex configuration](https://github.com/edemaine/agents-config) contains my global instructions and personal skills for Codex
 
 ## Utilities and Scripts
 
